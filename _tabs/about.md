@@ -3,6 +3,7 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> student, soon to be studing compsci & cybersecurity.
+{: .lead }
+am currently learning about neural networks and machine learning.
+decided to make this site to learn more about web development and to have a place to put my projects.
